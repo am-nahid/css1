@@ -1,0 +1,51 @@
+.para1{
+    color: brown;
+    padding: 10px;
+}
+
+.para2{
+    text-decoration: line-through;
+    
+}
+
+.para3{
+    background-color: yellow;
+}
+
+.para4{
+    padding: 10px;
+    color: brown;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.para6{
+    color: brown;
+    letter-spacing: 5px ; 
+    
+}
+
+.para7{
+    background-color: yellow;
+    font-weight: 800;
+}
+
+
+.para12{
+    color: rgb(147, 28, 28);
+
+}
+
+.atag1{
+    background-color: yellow;
+    color: brown;
+    font-style: italic;
+}
+
+.head2{
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+}
