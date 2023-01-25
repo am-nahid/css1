@@ -40,12 +40,10 @@
     background-color: yellow;
     color: brown;
     font-style: italic;
+    text-decoration: none;
 }
 
 .head2{
     font-style: italic;
 }
 
-a{
-    text-decoration: none;
-}
